@@ -4,11 +4,12 @@
     font-size: 15px;
   }
   .content {
-    width: 100%;
+    width: 90%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 20px;
+    margin-left: 5%;
   }
   .img{
       width: 130%;

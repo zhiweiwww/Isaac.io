@@ -69,3 +69,15 @@
   transform: rotateY(-360deg);
   -webkit-transform: rotateY(-360deg);
 }
+.search {
+  background-color: rgb(29, 34, 34);
+  margin-top: 20px;
+  height: 30px;
+  width: 100%;
+  text-align:center;
+  vertical-align:middle;
+}
+.search input{
+  background-color: rgb(61, 60, 60);
+  color: white;
+}
